@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1586314676
-ModificationTime: 1644986529
+ModificationTime: 1646709177
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,7 +57,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 100
-WinInfo: 27 27 9
+WinInfo: 0 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1034,6 +1034,17 @@ SplineSet
  105 3 80 23 44 28 c 1
 EndSplineSet
 Validated: 1
+Layer: 2
+SplineSet
+44 28 m 1
+ 62 105 l 1
+ 69 105 l 2
+ 120 105 170 70 170 3 c 0
+ 170 -62 123 -120 42 -150 c 1
+ 30 -126 l 1
+ 78 -107 105 -69 105 -33 c 0
+ 105 3 80 23 44 28 c 1
+EndSplineSet
 EndChar
 
 StartChar: hyphen
