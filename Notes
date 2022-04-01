@@ -5,7 +5,6 @@ TO-DO:
 
 * [ ] Check all ink traps and make consistent. 3px in capitals, 2px in lower-case. (Done to end of italic lower-case..)
 * [ ] Some letters are kerned with “all”. Fix this!
-* [ ] Make italic (separate file) n, m, i, h and j a little thinner. (Which one?)
 * [ ] Counterspace of ð is a little big. (Edited a little.)
 * [ ] Slightly reduce spacing of uncurved letters? i, l, u, etc.
   * [ ] Start by taking just a little off the left side of letters like i and n?
@@ -17,4 +16,3 @@ TO-DO:
 * [ ] Kerning for Capital overhangs is inconsistent. Output and check, modify, check, etc.
 * [ ] Finish smallcap-cap kerning!
 * [ ] Check all (all!) letter-punctuation kern pairs for consistency.
-
