@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: Siele
-FullName: Siele
-FamilyName: Siele
+FontName: Siele_old
+FullName: Siele_old
+FamilyName: Siele_old
 Weight: Regular
 Copyright: Copyright (c) 2020, g,,,
 UComments: "2020-4-8: Created with FontForge (http://fontforge.org)+AAoACgAA-Created for want of an open source 21st century Garamond.+AAoA-Design influences from various open source and historical typefaces.+AAoACgAA-The name Degarde comes from the French +IBwA-de garde+IB0A, apparently meaning +IBwA-on guard+IB0A or +IBwA-on call+IB0A."
@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1586314676
-ModificationTime: 1642741454
+ModificationTime: 1648866806
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
