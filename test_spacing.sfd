@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1586314676
-ModificationTime: 1651113435
+ModificationTime: 1651800926
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -44,6 +44,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "'ss01' Style Set 1 in Latin lookup 0" { "'ss01' Style Set 1 in Latin lookup 0-1"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 1" { "'mark' Mark Positioning in Latin lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1" [150,10,4] "'kern' Horizontal Kerning in Latin lookup 0-2" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
@@ -111,7 +112,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 209715 104857 69905 394265 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Bottom" "'mark' Mark Positioning in Latin lookup 1-1" "Top" "'mark' Mark Positioning in Latin lookup 1-1" "duplicates"""  "CapBottom" "'mark' Mark Positioning in Latin lookup 1-1" "CapTop" "'mark' Mark Positioning in Latin lookup 1-1" "Accent""" 
-BeginChars: 65571 267
+BeginChars: 65571 268
 
 StartChar: i
 Encoding: 105 105 0
@@ -3800,6 +3801,7 @@ SplineSet
  345 617 l 1
  343 617 l 1
 EndSplineSet
+Substitution2: "'ss01' Style Set 1 in Latin lookup 0-1" f.alt
 EndChar
 
 StartChar: l
@@ -4352,6 +4354,7 @@ SplineSet
  2 366 l 1
  2 400 l 1
 EndSplineSet
+Substitution2: "'ss01' Style Set 1 in Latin lookup 0-1" w.alt
 EndChar
 
 StartChar: x
@@ -9276,16 +9279,43 @@ EndChar
 
 StartChar: uniFB05
 Encoding: 64261 64261 264
-Width: 200
+Width: 560
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-47 45 m 0
- 47 74 71 98 100 98 c 0
- 129 98 153 74 153 45 c 0
- 153 16 129 -8 100 -8 c 0
- 71 -8 47 16 47 45 c 0
+394 522 m 0
+ 394 602 347 648 282 648 c 0
+ 212 648 163 602 163 477 c 2
+ 163 34 l 1
+ 243 34 l 1
+ 243 0 l 1
+ 33 0 l 1
+ 33 34 l 1
+ 93 34 l 1
+ 93 357 l 1
+ 33 357 l 1
+ 33 378 l 1
+ 93 405 l 1
+ 93 435 l 2
+ 93 595 215 698 307 698 c 0
+ 382 698 442 648 442 560 c 0
+ 442 505 417 480 417 450 c 2
+ 417 400 l 1
+ 550 400 l 1
+ 550 357 l 1
+ 417 357 l 1
+ 417 105 l 2
+ 417 64 439 42 471 42 c 0
+ 499 42 520 53 539 75 c 1
+ 555 60 l 1
+ 530 19 486 -14 436 -14 c 0
+ 380 -14 347 20 347 80 c 2
+ 347 357 l 1
+ 291 357 l 1
+ 291 377 l 1
+ 357 431 l 2
+ 384 454 394 480 394 522 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -9387,6 +9417,34 @@ SplineSet
  129 98 153 74 153 45 c 0
  153 16 129 -8 100 -8 c 0
  71 -8 47 16 47 45 c 0
+EndSplineSet
+EndChar
+
+StartChar: longs
+Encoding: 383 383 267
+Width: 280
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+163 34 m 1
+ 248 34 l 1
+ 248 0 l 1
+ 32 0 l 1
+ 32 34 l 1
+ 93 34 l 1
+ 93 357 l 1
+ 33 357 l 1
+ 33 378 l 1
+ 93 405 l 1
+ 93 440 l 2
+ 93 600 218 703 303 703 c 0
+ 328 703 354 695 373 681 c 1
+ 343 622 l 1
+ 341 622 l 1
+ 319 636 289 645 266 645 c 0
+ 208 645 163 605 163 480 c 2
+ 163 34 l 1
 EndSplineSet
 EndChar
 EndChars
