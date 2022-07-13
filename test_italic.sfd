@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1586314676
-ModificationTime: 1636340491
+ModificationTime: 1656606578
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -315,7 +315,7 @@ NameList: Adobe Glyph List
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 20 20 8
+WinInfo: 0 20 8
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -4590,18 +4590,18 @@ Flags: HMW
 LayerCount: 3
 Back
 SplineSet
-330 318 m 1
- 305 345 270 368 230 368 c 0
- 165 368 114 317 114 215 c 0
- 114 108 177 50 255 50 c 0
- 300 50 340 68 367 103 c 1
- 382 90 l 1
- 350 28 293 -12 220 -12 c 0
- 120 -12 40 67 40 185 c 0
- 40 310 145 412 255 412 c 0
- 298 412 347 398 377 375 c 1
- 332 318 l 1
- 330 318 l 1
+313 95 m 1
+ 265 20 212 -13 165 -13 c 0
+ 105 -13 63 40 63 115 c 0
+ 63 252 180 413 300 413 c 0
+ 325 413 343 405 357 398 c 1
+ 327 336 l 1
+ 324 336 l 1
+ 309 344 288 354 259 354 c 0
+ 178 354 132 240 132 150 c 0
+ 132 85 160 48 198 48 c 0
+ 227 48 260 65 296 113 c 1
+ 313 95 l 1
 EndSplineSet
 Fore
 SplineSet
