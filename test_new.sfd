@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1586314676
-ModificationTime: 1658265213
+ModificationTime: 1660358338
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -100,18 +100,18 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-40 360 m 1
- 40 370 l 1
- 156 416 l 1
- 166 416 l 1
+40 362 m 1
+ 40 372 l 1
+ 156 418 l 1
+ 166 418 l 1
  166 38 l 1
  244 38 l 1
  244 0 l 1
  22 0 l 1
  22 38 l 1
  96 38 l 1
- 96 315 l 1
- 40 360 l 1
+ 96 317 l 1
+ 40 362 l 1
 91 588 m 0
  91 613 111 633 136 633 c 0
  161 633 181 613 181 588 c 0
@@ -4146,9 +4146,9 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-300 330 m 2
- 291 333 278 335 266 335 c 0
- 231 335 196 320 166 280 c 1
+300 328 m 2
+ 291 331 278 333 266 333 c 0
+ 231 333 196 318 166 278 c 1
  166 38 l 1
  250 38 l 1
  250 0 l 1
@@ -4160,12 +4160,12 @@ SplineSet
  39 369 l 1
  151 415 l 1
  161 415 l 1
- 161 318 l 1
- 166 315 l 1
- 206 370 247 414 293 414 c 0
- 307 414 320 411 331 405 c 1
- 301 330 l 1
- 300 330 l 2
+ 161 316 l 1
+ 166 313 l 1
+ 206 368 247 412 293 412 c 0
+ 307 412 320 409 331 403 c 1
+ 301 328 l 1
+ 300 328 l 2
 EndSplineSet
 EndChar
 
