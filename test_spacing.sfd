@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1586314676
-ModificationTime: 1662697799
+ModificationTime: 1662861447
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -113,7 +113,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 209715 104857 69905 394265 1048576 69905 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Bottom" "'mark' Mark Positioning in Latin lookup 1-1" "Top" "'mark' Mark Positioning in Latin lookup 1-1" "duplicates"""  "CapBottom" "'mark' Mark Positioning in Latin lookup 1-1" "CapTop" "'mark' Mark Positioning in Latin lookup 1-1" "Accent""" 
-BeginChars: 65571 268
+BeginChars: 65571 276
 
 StartChar: i
 Encoding: 105 105 0
@@ -3342,10 +3342,10 @@ SplineSet
  354 457 l 1
  349 496 l 2
  342 554 295 601 224 601 c 0
- 166 601 121 564 121 520 c 0
+ 166 601 121 564 121 515 c 0
  121 461 158 427 249 363 c 0
- 367 280 413 234 413 155 c 0
- 413 64 324 -16 204 -16 c 0
+ 367 280 413 234 413 154 c 0
+ 413 62 324 -16 204 -16 c 0
  150 -16 93 -3 51 23 c 1
  29 183 l 1
  61 183 l 1
@@ -4167,7 +4167,7 @@ EndChar
 StartChar: d
 Encoding: 100 100 62
 GlifName: d
-Width: 504
+Width: 502
 Flags: HMW
 LayerCount: 3
 Back
@@ -5265,7 +5265,7 @@ EndChar
 StartChar: ae
 Encoding: 230 230 78
 GlifName: ae
-Width: 609
+Width: 608
 Flags: HMW
 LayerCount: 3
 Back
@@ -5912,7 +5912,7 @@ Encoding: 305 305 89
 GlifName: dotlessi
 Width: 265
 Flags: HMW
-AnchorPoint: "Top" 128 500 basechar 0
+AnchorPoint: "Top" 133 500 basechar 0
 LayerCount: 3
 Back
 SplineSet
@@ -6594,8 +6594,9 @@ EndChar
 
 StartChar: grave
 Encoding: 96 96 104
-Width: 200
+Width: 265
 Flags: HMW
+AnchorPoint: "Top" 151 500 mark 0
 LayerCount: 3
 Back
 SplineSet
@@ -6607,11 +6608,12 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-47 45 m 0
- 47 74 71 98 100 98 c 0
- 129 98 153 74 153 45 c 0
- 153 16 129 -8 100 -8 c 0
- 71 -8 47 16 47 45 c 0
+115 670 m 1
+ 205 490 l 1
+ 183 477 l 1
+ 50 642 l 1
+ 50 647 l 1
+ 115 670 l 1
 EndSplineSet
 EndChar
 
@@ -6942,7 +6944,7 @@ EndChar
 
 StartChar: dieresis
 Encoding: 168 168 116
-Width: 200
+Width: 265
 Flags: HMW
 LayerCount: 3
 Back
@@ -6955,11 +6957,16 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-47 45 m 0
- 47 74 71 98 100 98 c 0
- 129 98 153 74 153 45 c 0
- 153 16 129 -8 100 -8 c 0
- 71 -8 47 16 47 45 c 0
+5 560 m 0
+ 5 583 24 602 47 602 c 0
+ 70 602 89 583 89 560 c 0
+ 89 537 70 518 47 518 c 0
+ 24 518 5 537 5 560 c 0
+166 560 m 0
+ 166 583 185 602 208 602 c 0
+ 231 602 250 583 250 560 c 0
+ 250 537 231 518 208 518 c 0
+ 185 518 166 537 166 560 c 0
 EndSplineSet
 EndChar
 
@@ -7107,8 +7114,9 @@ EndChar
 
 StartChar: macron
 Encoding: 175 175 123
-Width: 200
+Width: 265
 Flags: HMW
+AnchorPoint: "Top" 133 500 mark 0
 LayerCount: 3
 Back
 SplineSet
@@ -7120,11 +7128,11 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-47 45 m 0
- 47 74 71 98 100 98 c 0
- 129 98 153 74 153 45 c 0
- 153 16 129 -8 100 -8 c 0
- 71 -8 47 16 47 45 c 0
+25 577 m 1
+ 240 577 l 1
+ 240 535 l 1
+ 25 535 l 1
+ 25 577 l 1
 EndSplineSet
 EndChar
 
@@ -7258,8 +7266,9 @@ EndChar
 
 StartChar: acute
 Encoding: 180 180 128
-Width: 200
+Width: 265
 Flags: HMW
+AnchorPoint: "Top" 114 500 mark 0
 LayerCount: 3
 Back
 SplineSet
@@ -7271,11 +7280,12 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-47 45 m 0
- 47 74 71 98 100 98 c 0
- 129 98 153 74 153 45 c 0
- 153 16 129 -8 100 -8 c 0
- 71 -8 47 16 47 45 c 0
+150 670 m 1
+ 215 647 l 1
+ 215 642 l 1
+ 82 477 l 1
+ 60 490 l 1
+ 150 670 l 1
 EndSplineSet
 EndChar
 
@@ -11378,6 +11388,165 @@ SplineSet
  356 622 l 1
  334 636 304 645 281 645 c 0
  220 645 168 605 168 480 c 1
+EndSplineSet
+EndChar
+
+StartChar: circumflex
+Encoding: 710 710 268
+Width: 265
+Flags: HW
+AnchorPoint: "Top" 133 500 mark 0
+LayerCount: 3
+Fore
+SplineSet
+120 663 m 1
+ 145 663 l 1
+ 245 490 l 1
+ 225 477 l 1
+ 134 582 l 1
+ 131 582 l 1
+ 40 477 l 1
+ 20 490 l 1
+ 120 663 l 1
+EndSplineSet
+EndChar
+
+StartChar: caron
+Encoding: 711 711 269
+Width: 265
+Flags: HW
+AnchorPoint: "Top" 133 500 mark 0
+LayerCount: 3
+Fore
+SplineSet
+120 485 m 1
+ 20 658 l 1
+ 40 671 l 1
+ 131 566 l 1
+ 134 566 l 1
+ 225 671 l 1
+ 245 658 l 1
+ 145 485 l 1
+ 120 485 l 1
+EndSplineSet
+EndChar
+
+StartChar: breve
+Encoding: 728 728 270
+Width: 265
+Flags: HW
+AnchorPoint: "Top" 133 500 mark 0
+LayerCount: 3
+Fore
+SplineSet
+132 503 m 0
+ 64 503 23 560 15 630 c 1
+ 40 635 l 1
+ 50 589 86 561 133 561 c 0
+ 179 561 215 589 225 635 c 1
+ 250 630 l 1
+ 242 560 201 503 132 503 c 0
+EndSplineSet
+EndChar
+
+StartChar: dotaccent
+Encoding: 729 729 271
+Width: 265
+Flags: HW
+AnchorPoint: "Top" 133 500 mark 0
+LayerCount: 3
+Fore
+SplineSet
+89 588 m 0
+ 89 612 109 632 133 632 c 0
+ 157 632 177 612 177 588 c 0
+ 177 564 157 544 133 544 c 0
+ 109 544 89 564 89 588 c 0
+EndSplineSet
+EndChar
+
+StartChar: ring
+Encoding: 730 730 272
+Width: 265
+Flags: HW
+AnchorPoint: "Top" 133 500 mark 0
+LayerCount: 3
+Fore
+SplineSet
+93 585 m 0
+ 93 552 110 527 135 527 c 0
+ 157 527 173 548 173 575 c 0
+ 173 608 156 633 131 633 c 0
+ 109 633 93 612 93 585 c 0
+57 580 m 0
+ 57 622 91 656 133 656 c 0
+ 175 656 209 622 209 580 c 0
+ 209 538 175 504 133 504 c 0
+ 91 504 57 538 57 580 c 0
+EndSplineSet
+EndChar
+
+StartChar: ogonek
+Encoding: 731 731 273
+Width: 265
+Flags: HW
+LayerCount: 3
+Fore
+SplineSet
+170 30 m 1
+ 195 20 l 1
+ 135 -40 107 -82 107 -135 c 0
+ 107 -173 132 -197 165 -197 c 0
+ 189 -197 209 -188 225 -173 c 1
+ 238 -188 l 1
+ 215 -220 180 -248 135 -248 c 0
+ 83 -248 45 -212 45 -157 c 0
+ 45 -88 95 -30 170 30 c 1
+EndSplineSet
+EndChar
+
+StartChar: tilde
+Encoding: 732 732 274
+Width: 265
+Flags: HW
+AnchorPoint: "Top" 133 500 mark 0
+LayerCount: 3
+Fore
+SplineSet
+0 522 m 1
+ 15 580 48 602 78 602 c 0
+ 95 602 110 600 143 588 c 0
+ 171 578 185 575 199 575 c 0
+ 218 575 234 586 243 610 c 1
+ 265 603 l 1
+ 250 545 217 523 187 523 c 0
+ 170 523 155 525 122 537 c 0
+ 94 547 80 550 66 550 c 0
+ 47 550 31 539 22 515 c 1
+ 0 522 l 1
+EndSplineSet
+EndChar
+
+StartChar: hungarumlaut
+Encoding: 733 733 275
+Width: 265
+Flags: HW
+AnchorPoint: "Top" 133 500 mark 0
+LayerCount: 3
+Fore
+SplineSet
+75 670 m 1
+ 135 647 l 1
+ 135 642 l 1
+ 27 477 l 1
+ 5 490 l 1
+ 75 670 l 1
+205 670 m 1
+ 265 647 l 1
+ 265 642 l 1
+ 152 477 l 1
+ 130 490 l 1
+ 205 670 l 1
 EndSplineSet
 EndChar
 EndChars
