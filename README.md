@@ -2,10 +2,10 @@
 
 An unfinished typeface.
 
-![A sample of Siele in its current form.](https://raw.githubusercontent.com/fontfish/Siele/main/Siele_sample.png "Siele")
+![A sample of Siele in its current form.](https://raw.githubusercontent.com/fontfish/Siele/main/resources/Siele_sample.png "Siele")
 
 A work still very much in production.
-I have yet to get the the spacing to a point that I am happy with,
+I have yet to polish the spacing to a point that I am happy with,
 and some tidying is necessary, but the design is roughly as I want it.
 
 For now, the file names are as they have been for development, as this was
@@ -15,9 +15,9 @@ I will edit the names in due course.
 ## Design
 
 This face is based on various Garamonds, reinvented in search of a slab-like
-simplicity but without the monotonous feel of most slab serifs.
+simplicity without becoming a slab serif design.
 It has been designed with text in mind, but in its current state is perhaps
-more suitable for larger use cases.
+more suitable for use in larger sizes.
 
 ## Files
 
@@ -30,7 +30,8 @@ more suitable for larger use cases.
 - test-i.sfd is the original, more “Garamondian”, italic.
 
 For the time being, all the files are disorganised – this is predominantly
-a personal project that grew into something more complex.
+a personal project that grew into something more complex,
+and will likely remain treated as such.
 
 ## 3D Print Experiments
 
@@ -40,6 +41,16 @@ keeping the type exactly square and exactly the right height, though the
 letterfaces are functional for printing.
 
 I will add some pictures of this soon.
+
+## Goals
+
+Many of the goals for this face are long-term.
+They may be carried out slowly, if at all.
+
+- [ ] An accompanying italic.
+- [ ] An accompanying bold.
+- [ ] A greater range of accented glyphs for increased language support.
+- [ ] Variable font weight.
 
 ## Naming
 
