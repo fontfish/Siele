@@ -1,18 +1,27 @@
-W, X a bit too heavy in smallcaps? And in upper-case? (Modified slightly.)
+# Notes and To-Do
 
 
-TO-DO:
+## Steps
+
+- Add 34 encoding slots for smallcaps letters.
+  - A to Z, Þ, Ð, Ø, Æ, Œ, Ĳ, ẞ, [one spare]
+- Add 6 encoding slots for smallcap accents
+  (these should be a little shorter than the lower-case versions).
+  - `, ´, ˆ, ˇ, ˝
+
+
+
+
+
+
+### TO-DO:
 
 * [ ] Check all ink traps and make consistent. 3px in capitals, 2px in lower-case. (Done to end of italic lower-case..)
-* [ ] Some letters are kerned with “all”. Fix this!
 * [ ] Counterspace of ð is a little big. (Edited a little.)
-* [ ] Slightly reduce spacing of uncurved letters? i, l, u, etc.
-  * [ ] Start by taking just a little off the left side of letters like i and n?
-* [ ] SLIGHTLY REDUCE ALL ALPHABET SPACING?! (About 2 px either side?)
+* [ ] Slightly reduce all alphabet spacing?! (About 2 px either side?)
 * [ ] Add “fþ” and “ffþ” ligatures?
 * [ ] Add all ligatures to features.
 * [ ] Punctuation and number kerning!
-* [ ] Redesign numbers? Specifically old-style proportional 5 and tabular 6 and 9. Double-check all for weight.
-* [ ] Kerning for Capital overhangs is inconsistent. Output and check, modify, check, etc.
+* [ ] Double-check all numbers for evenness of weight.
 * [ ] Finish smallcap-cap kerning!
 * [ ] Check all (all!) letter-punctuation kern pairs for consistency.
