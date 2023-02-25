@@ -24,7 +24,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1586314676
-ModificationTime: 1677165341
+ModificationTime: 1677342661
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -44,6 +44,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals in Latin lookup 2" { "'smcp' Lowercase to Small Capitals in Latin lookup 2-1"  } ['smcp' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 1" { "'liga' Standard Ligatures in Latin lookup 1-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'ss01' Style Set 1 in Latin lookup 0" { "'ss01' Style Set 1 in Latin lookup 0-1"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 1" { "'mark' Mark Positioning in Latin lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
@@ -139,7 +140,7 @@ DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
 WidthSeparation: 100
-WinInfo: 135 27 9
+WinInfo: 162 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -217,6 +218,7 @@ SplineSet
  501.809570312 1 449.809570312 0 417.809570312 -1 c 1
  417.809570312 41 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" i.smcp
 EndChar
 
 StartChar: n
@@ -310,6 +312,7 @@ SplineSet
  99 318 l 1
  47 356 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" n.smcp
 EndChar
 
 StartChar: o
@@ -358,6 +361,7 @@ SplineSet
  374 290 316 378 237 378 c 0
  162 378 114 308 114 210 c 0
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" o.smcp
 EndChar
 
 StartChar: t
@@ -423,6 +427,7 @@ SplineSet
  279 21 235 -12 185 -12 c 0
  129 -12 90 26 90 86 c 2
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" t.smcp
 EndChar
 
 StartChar: g
@@ -638,6 +643,7 @@ SplineSet
  -448 -192 -408 -245 -320 -245 c 0
  -229 -245 -181 -191 -181 -119 c 0
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" g.smcp
 EndChar
 
 StartChar: h
@@ -733,6 +739,7 @@ SplineSet
  88 624 l 1
  33 662 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" h.smcp
 EndChar
 
 StartChar: a
@@ -832,6 +839,7 @@ SplineSet
  53 295 l 2
  53 345 124 413 204 413 c 0
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" a.smcp
 EndChar
 
 StartChar: j
@@ -894,6 +902,7 @@ SplineSet
  172 563 152 543 127 543 c 0
  102 543 82 563 82 588 c 0
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" j.smcp
 EndChar
 
 StartChar: period
@@ -1028,6 +1037,7 @@ SplineSet
  88 624 l 1
  36 666 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" k.smcp
 EndChar
 
 StartChar: exclam
@@ -4568,6 +4578,7 @@ SplineSet
  455 85 350 -12 230 -12 c 0
  188 -12 125 0 80 25 c 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" b.smcp
 EndChar
 
 StartChar: c
@@ -4658,6 +4669,7 @@ SplineSet
  -913.001953125 314 l 1
  -915.001953125 314 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" c.smcp
 EndChar
 
 StartChar: d
@@ -4750,6 +4762,7 @@ SplineSet
  351.904296875 626 l 1
  287.904296875 664 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" d.smcp
 EndChar
 
 StartChar: e
@@ -4795,6 +4808,7 @@ SplineSet
  378 250 l 1
  109 250 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" e.smcp
 EndChar
 
 StartChar: f
@@ -4878,6 +4892,7 @@ SplineSet
  373 622 l 1
  371 622 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" f.smcp
 Substitution2: "'ss01' Style Set 1 in Latin lookup 0-1" f.alt
 EndChar
 
@@ -4932,6 +4947,7 @@ SplineSet
  111.80859375 624 l 1
  57.80859375 664 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" l.smcp
 EndChar
 
 StartChar: m
@@ -5063,6 +5079,7 @@ SplineSet
  100 318 l 1
  48 356 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" m.smcp
 EndChar
 
 StartChar: p
@@ -5158,6 +5175,7 @@ SplineSet
  218 358 183 344 157 322 c 1
  157 71 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" p.smcp
 EndChar
 
 StartChar: q
@@ -5218,6 +5236,7 @@ SplineSet
  35 307 141 412 258 412 c 0
  291 412 328 403 359 390 c 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" q.smcp
 EndChar
 
 StartChar: r
@@ -5272,6 +5291,7 @@ SplineSet
  315 327 l 1
  314 327 l 2
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" r.smcp
 EndChar
 
 StartChar: s
@@ -5366,6 +5386,7 @@ SplineSet
  -225 95 l 2
  -216 50 -190 21 -142 21 c 0
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" s.smcp
 EndChar
 
 StartChar: u
@@ -5427,6 +5448,7 @@ SplineSet
  412 415 l 1
  422 415 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" u.smcp
 EndChar
 
 StartChar: v
@@ -5477,6 +5499,7 @@ SplineSet
  183 365 l 1
  129 365 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" v.smcp
 EndChar
 
 StartChar: w
@@ -5578,6 +5601,7 @@ SplineSet
  4 365 l 1
  4 400 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" w.smcp
 Substitution2: "'ss01' Style Set 1 in Latin lookup 0-1" w.alt
 EndChar
 
@@ -5659,6 +5683,7 @@ SplineSet
  55 35 l 1
  190 196 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" x.smcp
 EndChar
 
 StartChar: y
@@ -5718,6 +5743,7 @@ SplineSet
  395 365 l 1
  156 -178 l 2
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" y.smcp
 EndChar
 
 StartChar: z
@@ -5771,6 +5797,7 @@ SplineSet
  45 285 l 1
  65 426 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" z.smcp
 EndChar
 
 StartChar: germandbls
@@ -6050,6 +6077,7 @@ SplineSet
  110 95 162 25 240 25 c 0
  313 25 361 100 361 210 c 0
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" eth.smcp
 EndChar
 
 StartChar: oslash
@@ -6239,6 +6267,7 @@ SplineSet
  208 356 174 342 150 322 c 1
  150 71 l 1
 EndSplineSet
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 2-1" thorn.smcp
 EndChar
 
 StartChar: quoteleft
@@ -13966,21 +13995,60 @@ EndChar
 
 StartChar: a.smcp
 Encoding: 65553 -1 297
-Width: 200
+Width: 465
 Flags: HMW
 LayerCount: 3
+Back
+SplineSet
+287 166 m 1
+ 127 166 l 1
+ 85 64 l 1
+ 74 24 l 1
+ 127 24 l 1
+ 127 0 l 1
+ -4 0 l 1
+ -4 24 l 1
+ 35 24 l 1
+ 217 449 l 1
+ 235 449 l 1
+ 406 24 l 1
+ 444 24 l 1
+ 444 0 l 1
+ 292 0 l 1
+ 292 24 l 1
+ 341 24 l 1
+ 287 166 l 1
+276 192 m 1
+ 212 360 l 1
+ 209 360 l 1
+ 138 192 l 1
+ 276 192 l 1
+EndSplineSet
 Fore
 SplineSet
-17 128 m 1
- 183 128 l 1
- 183 -38 l 1
- 17 -38 l 1
- 17 128 l 1
-47 45 m 0
- 47 16 71 -8 100 -8 c 0
- 129 -8 153 16 153 45 c 0
- 153 74 129 98 100 98 c 0
- 71 98 47 74 47 45 c 0
+120 175 m 1
+ 310 175 l 1
+ 320 140 l 1
+ 110 140 l 1
+ 120 175 l 1
+215 345 m 1
+ 103 79 l 1
+ 91 35 l 1
+ 148 35 l 1
+ 148 0 l 1
+ -5 0 l 1
+ -5 35 l 1
+ 41 35 l 1
+ 219 446 l 1
+ 248 446 l 1
+ 417 35 l 1
+ 464 35 l 1
+ 464 0 l 1
+ 285 0 l 1
+ 285 35 l 1
+ 340 35 l 1
+ 217 345 l 1
+ 215 345 l 1
 EndSplineSet
 Layer: 2
 SplineSet
@@ -14012,21 +14080,83 @@ EndChar
 
 StartChar: b.smcp
 Encoding: 65554 -1 298
-Width: 200
+Width: 440
 Flags: HMW
 LayerCount: 3
+Back
+SplineSet
+399 125 m 0
+ 399 50 328 0 235 0 c 2
+ 32 0 l 1
+ 32 35 l 1
+ 104 35 l 1
+ 104 395 l 1
+ 35 395 l 1
+ 35 430 l 1
+ 229 430 l 2
+ 324 430 373 390 373 332 c 0
+ 373 285 332 245 290 235 c 1
+ 290 232 l 1
+ 352 220 399 184 399 125 c 0
+326 120 m 0
+ 326 182 280 212 215 212 c 2
+ 176 212 l 1
+ 176 59 l 2
+ 176 42 184 34 201 34 c 2
+ 226 34 l 2
+ 286 34 326 65 326 120 c 0
+303 322 m 0
+ 303 366 274 396 210 396 c 2
+ 176 396 l 1
+ 176 245 l 1
+ 215 245 l 2
+ 270 245 303 277 303 322 c 0
+46 361 m 1
+ 46 369 l 1
+ 160 417 l 1
+ 170 417 l 1
+ 170 35 l 1
+ 245 35 l 1
+ 245 0 l 1
+ 27 0 l 1
+ 27 35 l 1
+ 100 35 l 1
+ 100 316 l 1
+ 46 361 l 1
+93 588 m 0
+ 93 613 113 633 138 633 c 0
+ 163 633 183 613 183 588 c 0
+ 183 563 163 543 138 543 c 0
+ 113 543 93 563 93 588 c 0
+EndSplineSet
 Fore
 SplineSet
-17 128 m 1
- 183 128 l 1
- 183 -38 l 1
- 17 -38 l 1
- 17 128 l 1
-47 45 m 0
- 47 16 71 -8 100 -8 c 0
- 129 -8 153 16 153 45 c 0
- 153 74 129 98 100 98 c 0
- 71 98 47 74 47 45 c 0
+399 125 m 0
+ 399 50 328 0 235 0 c 2
+ 32 0 l 1
+ 32 35 l 1
+ 104 35 l 1
+ 104 395 l 1
+ 35 395 l 1
+ 35 430 l 1
+ 229 430 l 2
+ 322 430 373 390 373 332 c 0
+ 373 284 330 245 288 235 c 1
+ 288 233 l 1
+ 352 221 399 184 399 125 c 0
+326 120 m 0
+ 326 178 283 212 215 212 c 2
+ 176 212 l 1
+ 176 59 l 2
+ 176 42 184 34 201 34 c 2
+ 226 34 l 2
+ 286 34 326 66 326 120 c 0
+303 322 m 0
+ 303 364 274 396 210 396 c 2
+ 176 396 l 1
+ 176 245 l 1
+ 215 245 l 2
+ 269 245 303 277 303 322 c 0
 EndSplineSet
 Layer: 2
 SplineSet
@@ -14061,60 +14191,73 @@ EndChar
 
 StartChar: c.smcp
 Encoding: 65555 -1 299
-Width: 200
+Width: 490
 Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-17 128 m 1
- 183 128 l 1
- 183 -38 l 1
- 17 -38 l 1
- 17 128 l 1
-47 45 m 0
- 47 16 71 -8 100 -8 c 0
- 129 -8 153 16 153 45 c 0
- 153 74 129 98 100 98 c 0
- 71 98 47 74 47 45 c 0
+422 116 m 2
+ 432 142 l 1
+ 462 142 l 1
+ 426 21 l 1
+ 390 0 335 -12 285 -12 c 0
+ 150 -12 38 75 38 212 c 0
+ 38 350 155 442 285 442 c 0
+ 333 442 387 432 430 410 c 1
+ 445 295 l 1
+ 415 295 l 1
+ 409 319 l 2
+ 403 342 391 361 378 374 c 0
+ 359 393 325 407 282 407 c 0
+ 190 407 118 335 118 225 c 0
+ 118 105 200 26 293 26 c 0
+ 369 26 400 60 422 116 c 2
 EndSplineSet
 Layer: 2
 SplineSet
-414 116 m 2
- 424 142 l 1
- 452 142 l 1
- 416 21 l 1
- 380 0 325 -12 275 -12 c 0
- 140 -12 28 75 28 212 c 0
- 28 350 145 442 275 442 c 0
- 323 442 377 432 420 410 c 1
- 435 295 l 1
- 407 295 l 1
- 401 319 l 2
- 395 342 383 361 370 374 c 0
- 351 393 315 407 272 407 c 0
- 180 407 108 335 108 225 c 0
- 108 105 190 26 283 26 c 0
- 359 26 392 60 414 116 c 2
+424 116 m 2
+ 434 142 l 1
+ 462 142 l 1
+ 426 21 l 1
+ 390 0 335 -12 285 -12 c 0
+ 150 -12 38 75 38 212 c 0
+ 38 350 155 442 285 442 c 0
+ 333 442 387 432 430 410 c 1
+ 445 295 l 1
+ 417 295 l 1
+ 411 319 l 2
+ 405 342 393 361 380 374 c 0
+ 361 393 325 407 282 407 c 0
+ 190 407 118 335 118 225 c 0
+ 118 105 200 26 293 26 c 0
+ 369 26 402 60 424 116 c 2
 EndSplineSet
 EndChar
 
 StartChar: d.smcp
 Encoding: 65556 -1 300
-Width: 200
+Width: 545
 Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-17 128 m 1
- 183 128 l 1
- 183 -38 l 1
- 17 -38 l 1
- 17 128 l 1
-47 45 m 0
- 47 16 71 -8 100 -8 c 0
- 129 -8 153 16 153 45 c 0
- 153 74 129 98 100 98 c 0
- 71 98 47 74 47 45 c 0
+435 212 m 0
+ 435 322 366 396 242 396 c 2
+ 176 396 l 1
+ 176 64 l 2
+ 176 45 187 34 206 34 c 2
+ 252 34 l 2
+ 367 34 435 107 435 212 c 0
+33 395 m 1
+ 33 430 l 1
+ 253 430 l 2
+ 418 430 512 340 512 223 c 0
+ 512 105 422 0 260 0 c 2
+ 35 0 l 1
+ 35 35 l 1
+ 104 35 l 1
+ 104 395 l 1
+ 33 395 l 1
 EndSplineSet
 Layer: 2
 SplineSet
@@ -14140,21 +14283,44 @@ EndChar
 
 StartChar: e.smcp
 Encoding: 65557 -1 301
-Width: 200
+Width: 440
 Flags: HMW
 LayerCount: 3
+Back
+SplineSet
+176 60 m 2
+ 176 43 184 35 201 35 c 1026
+EndSplineSet
 Fore
 SplineSet
-17 128 m 1
- 183 128 l 1
- 183 -38 l 1
- 17 -38 l 1
- 17 128 l 1
-47 45 m 0
- 47 16 71 -8 100 -8 c 0
- 129 -8 153 16 153 45 c 0
- 153 74 129 98 100 98 c 0
- 71 98 47 74 47 45 c 0
+299 242 m 1
+ 299 292 l 1
+ 330 292 l 1
+ 330 155 l 1
+ 299 155 l 1
+ 299 207 l 1
+ 176 207 l 1
+ 176 60 l 1
+ 176 43 184 35 201 35 c 1
+ 295 35 l 2
+ 335 35 358 47 374 105 c 2
+ 381 130 l 1
+ 410 130 l 1
+ 385 0 l 1
+ 32 0 l 1
+ 32 35 l 1
+ 104 35 l 1
+ 104 395 l 1
+ 36 395 l 1
+ 36 430 l 1
+ 380 430 l 1
+ 382 325 l 1
+ 353 325 l 1
+ 350 348 l 2
+ 345 383 334 395 304 395 c 2
+ 176 395 l 1
+ 176 242 l 1
+ 299 242 l 1
 EndSplineSet
 Layer: 2
 SplineSet
@@ -14190,21 +14356,35 @@ EndChar
 
 StartChar: f.smcp
 Encoding: 65558 -1 302
-Width: 200
+Width: 400
 Flags: HMW
 LayerCount: 3
 Fore
 SplineSet
-17 128 m 1
- 183 128 l 1
- 183 -38 l 1
- 17 -38 l 1
- 17 128 l 1
-47 45 m 0
- 47 16 71 -8 100 -8 c 0
- 129 -8 153 16 153 45 c 0
- 153 74 129 98 100 98 c 0
- 71 98 47 74 47 45 c 0
+176 35 m 1
+ 251 35 l 1
+ 251 0 l 1
+ 34 0 l 1
+ 34 35 l 1
+ 104 35 l 1
+ 104 395 l 1
+ 34 395 l 1
+ 34 430 l 1
+ 374 430 l 1
+ 380 321 l 1
+ 351 321 l 1
+ 348 340 l 2
+ 341 383 326 395 298 395 c 2
+ 176 395 l 1
+ 176 235 l 1
+ 302 235 l 1
+ 302 285 l 1
+ 333 285 l 1
+ 333 145 l 1
+ 302 145 l 1
+ 302 200 l 1
+ 176 200 l 1
+ 176 35 l 1
 EndSplineSet
 Layer: 2
 SplineSet
@@ -16043,7 +16223,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uni1e9e.smcp
+StartChar: germandbls.smcp
 Encoding: 65616 -1 360
 Width: 200
 Flags: HMW
