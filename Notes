@@ -18,11 +18,13 @@
 ### TO-DO:
 
 * [ ] Check all ink traps and make consistent. 3px in capitals, 2px in lower-case. (Done to end of italic lower-case..)
+* [ ] Make sure the thickness of serifs, etc., in italic is correct.
+* [ ] Double-check numbers for evenness of weight.
+* [ ] Respace, then edit kerning.
+    * [ ] Kerning of respcaed glyphs.
+    * [ ] Punctuation and number kerning!
+    * [ ] Finish smallcap-cap kerning!
+    * [ ] Check all (all!) letter-punctuation kern pairs for consistency.
 * [x] Counterspace of ð is a little big. (Edited a little.)
-* [ ] Slightly reduce all alphabet spacing?! (About 2 px either side?)
 * [ ] Add “fþ” and “ffþ” ligatures?
-* [ ] Add all ligatures to features.
-* [ ] Punctuation and number kerning!
-* [ ] Double-check all numbers for evenness of weight.
-* [ ] Finish smallcap-cap kerning!
-* [ ] Check all (all!) letter-punctuation kern pairs for consistency.
+* [ ] Add ligatures to features.
